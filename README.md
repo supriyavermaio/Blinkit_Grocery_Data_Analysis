@@ -31,8 +31,6 @@ The main goals of this project are to:
 
 ---
 
-## 📂 Project Contents
-
 Here’s what’s included in the repository:
 ## 📂 Repository Structure
 
