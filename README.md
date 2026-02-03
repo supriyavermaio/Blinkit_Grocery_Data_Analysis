@@ -35,6 +35,7 @@ The main goals of this project are to:
 
 Here’s what’s included in the repository:
 ## 📂 Repository Structure
+
 📦 Blinkit_Grocery_Data_Analysis/
 ├── Blinkit.pbix # Power BI dashboard file
 ├── BlinkIT_Grocery_Data.xlsx # Raw dataset used for analysis
