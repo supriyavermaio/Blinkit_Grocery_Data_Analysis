@@ -36,12 +36,12 @@ The main goals of this project are to:
 Here’s what’s included in the repository:
 ## 📂 Repository Structure
 📦 Blinkit_Grocery_Data_Analysis/
-├── 📊 Blinkit.pbix # Power BI dashboard file
-├── 📄 BlinkIT_Grocery_Data.xlsx # Raw dataset used for analysis
-├── 📊 Blinkit_Analysis.pptx # Final insights and analysis presentation
-├── 📄 Query_Doc.docx # SQL queries and data logic documentation
-├── 📄 README.md # Project documentation
-└── 📄 LICENSE # MIT License
+├── Blinkit.pbix # Power BI dashboard file
+├── BlinkIT_Grocery_Data.xlsx # Raw dataset used for analysis
+├── Blinkit_Analysis.pptx # Final insights and analysis presentation
+├── Query_Doc.docx # SQL queries and data logic documentation
+├── README.md # Project documentation
+└── LICENSE # MIT License
 
 
 
